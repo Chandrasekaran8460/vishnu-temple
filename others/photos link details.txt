@@ -1,0 +1,64 @@
+//for-font-styles
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+@import url(https://fonts.googleapis.com/css?family=Courgette);
+@import url(https://fonts.googleapis.com/css?family=Muli);
+
+//body
+https://img.freepik.com/free-vector/background-design-with-mandalas-pattern_1308-70343.jpg?w=900&t=st=1699629789~exp=1699630389~hmac=082a98ac98594e69334b711e10ac06040ad66f40e13f0f73b3c649b5dd479f16
+
+//home
+https://www.youtube.com/watch?v=0c22eoZ2ZXw&list=PLXkITt1-UvR719-ODRrpQfye-pFd03QW2&index=4
+
+//section-bg
+https://scontent.fixm4-3.fna.fbcdn.net/v/t1.6435-9/49015706_1038189626372892_2860931209683271680_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c2f564&_nc_ohc=SM_Z2DZOw_YAX-bAPp3&_nc_ht=scontent.fixm4-3.fna&oh=00_AfCPJvpK5-3AeSxcbqC67uRjb_Iaz60bjLO9unude7yD5g&oe=6578A080
+
+//why us section
+https://img.freepik.com/premium-photo/henna-mehndi-diwali-background_962764-25416.jpg?w=740
+
+//why us
+https://i.pinimg.com/564x/7a/f6/46/7af6465c3c27346dc7c13e64d6ad18fb.jpg
+
+//hero
+https://w0.peakpx.com/wallpaper/241/642/HD-wallpaper-lord-venkateswara-balaji-lord.jpg
+
+//gallery
+https://png.pngtree.com/background/20210714/original/pngtree-luxury-mandala-background-with-beautiful-yellow-arabesque-picture-image_1249453.jpg
+
+https://www.gunaseelamtemple.com/images/img/start_1.jpg
+
+https://www.gunaseelamtemple.com/images/img/start_2.jpg
+
+https://www.gunaseelamtemple.com/images/img/start_3.jpg
+
+https://www.gunaseelamtemple.com/images/img/start_4.jpg
+
+https://www.gunaseelamtemple.com/images/img/start_5.jpg
+
+https://www.gunaseelamtemple.com/images/img/start_6.jpg
+
+https://www.gunaseelamtemple.com/images/img/start_7.jpg
+
+//footer
+https://img.freepik.com/premium-photo/beautiful-rich-indian-fabric-silk-wallpaper-ethnic-art-generative-ai_753390-3797.jpg?w=740
+
+https://mail.google.com/mail/u/0/?ogbl#inbox?compose=new
+
+//aboutus
+https://www.gunaseelamtemple.com/images/img/start_2.jpg
+
+https://youtu.be/yxUFJAcEhG8?si=aB3kAcVjbFOzoWGG
+
+//chefsection
+https://lh5.googleusercontent.com/p/AF1QipNVGE01PpG1izryleUgh9V4IJNK4R5BdoGWH2Rf=w325-h577-k-no
+
+https://w0.peakpx.com/wallpaper/215/22/HD-wallpaper-temple-god-hanuman-happy-logo-lord-nature-nike-oneplus-walpaper.jpg
+
+https://upload.wikimedia.org/wikipedia/commons/d/de/Malekallu_Tirupathi-balaji%2C_Arsikere.jpg
+
+//contact
+https://www.gunaseelamtemple.com/bank.jpg
+
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3917.811073186454!2d78.56497407387064!3d10.901958289254534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baa598017e9a99f%3A0x6e737322c395957a!2sGunaseelam%20Sri%20Prasanna%20Venkatachalapathy%20Temple!5e0!3m2!1sen!2sus!4v1699841021608!5m2!1sen!2sus
+
+//testimonialsection
+https://m.media-amazon.com/images/I/81ExzhnrzLL._SL1500_.jpg
